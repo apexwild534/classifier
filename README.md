@@ -8,6 +8,9 @@ Follow these steps to set up and run the classifier:
 
 1. **Clone the Repository**
    - Clone or download this repository to your local machine.
+     ```bash
+     git clone https://github.com/apexwild534/classifier.git
+     ```
 
 2. **Install Dependencies**
    - If this is your first time using TextBlob, install it along with its necessary corpora:
